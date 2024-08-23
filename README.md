@@ -19,3 +19,7 @@
        .install visual sudio code from https://code.visualstudio.com/
        . install extension
             mark down preview
+            ![image](https://github.com/user-attachments/assets/e4d4af3e-0ffa-447f-a0b2-d431716bb563)
+            ![image](https://github.com/user-attachments/assets/ed7708f5-ca79-41e2-996f-30963cdd4dea)
+
+
